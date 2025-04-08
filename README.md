@@ -1,6 +1,3 @@
-<!-- GIF de anime no canto direito -->
-
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1 style="display: flex; align-items: center; gap: 10px;">
     Oi, eu sou o Felipe
@@ -31,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub">
 </div>
 
----
 
 ### 📊 Estatísticas do GitHub
 
