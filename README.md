@@ -1,6 +1,6 @@
 <!-- GIF de anime no canto direito -->
 <p align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVpcXQ3OHJjYWlxanc2MmxvN2JodTAzMWF1NXhrdG9lYXp6aXUxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="150" alt="anime gif">
+  <img src="https://cdn.discordapp.com/attachments/1217648089414766623/1359197552708292711/Pokemon_Eating_GIF.gif?ex=67f69add&is=67f5495d&hm=5e8b831e717e1af4970a7a578e53754ceb85ac05006c19bf21429721ec8c3a29&" width="150" alt="anime gif">
 </p>
 
 <div id="toc">
