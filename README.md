@@ -35,7 +35,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Porsi4&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Porsi4&theme=dark&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false&hide_border=true" />
+<div align="left" background-color =  "black">
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Porsi4&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img width="50%" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Porsi4&theme=chartreuse-dark&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=350&hide_progress=false&hide_border=true" />
 </div>
